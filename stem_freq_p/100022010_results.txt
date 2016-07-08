@@ -1,0 +1,239 @@
+Query Results
+
+query 01
+uea.ac.uk/computing/-/cmp-6008a-information-retrieval
+uea.ac.uk/computing/-/cmp-5036a-information-retrieval
+uea.ac.uk/computing/music-information-retrieval-evaluation-exchange-mirex-
+uea.ac.uk/computing/news-and-events/topics
+uea.ac.uk/computing/colour-group/colour-members
+uea.ac.uk/computing/data-mining/members/postgraduate-students
+uea.ac.uk/computing/music-2-knowledge-m2k-
+uea.ac.uk/computing/image-retrieval
+uea.ac.uk/computing/speech-language-and-audio-processing/past-research-projects
+uea.ac.uk/computing/module-information/level-6
+
+precision at 1 = 1/1 = 1
+precision at 2 = 2/2 = 1
+precision at 3 = 3/3 = 1
+precision at 4 = 3/4 = 0.25
+precision at 5 = 3/5 = 0.4
+precision at 6 = 3/6 = 0.33333333
+precision at 7 = 4/7 = 0.42857143
+precision at 8 = 4/8 = 0.5
+precision at 9 = 5/9 = 0.44444444
+precision at 10 = 5/10 = 0.5
+
+query 02
+uea.ac.uk/computing/people/profile/anthony-bagnall
+uea.ac.uk/computing/People/Faculty/Tony+Bagnall
+uea.ac.uk/computing/people/profile/list/academic
+uea.ac.uk/computing/People/Research+Students/Jason+Lines
+uea.ac.uk/computing/people/profile/j-lines
+uea.ac.uk/computing/machine-learning-and-statistics/phd-opportunities
+uea.ac.uk/computing/tsc
+uea.ac.uk/computing/machine-learning/time-series-classification
+uea.ac.uk/computing/machine-learning/members
+uea.ac.uk/computing/data-mining/members
+
+precision at 1 = 1/1 = 1
+precision at 2 = 2/2 = 1
+precision at 3 = 3/3 = 1
+precision at 4 = 4/4 = 1
+precision at 5 = 5/5 = 1
+precision at 6 = 6/6 = 1
+precision at 7 = 7/7 = 1
+precision at 8 = 8/8 = 1
+precision at 9 = 9/9 = 1
+precision at 10 = 10/10 = 1
+
+query 03
+uea.ac.uk/computing/copula-course/day-2
+uea.ac.uk/computing/statistics/copula
+uea.ac.uk/computing/copula-course
+uea.ac.uk/computing/copula-course/day-1
+uea.ac.uk/computing/copula-course/day-3
+uea.ac.uk/computing/People/Faculty/Aristidis+K+Nikoloulopoulos
+uea.ac.uk/computing/people/profile/a-nikoloulopoulos
+uea.ac.uk/computing/machine-learning-and-statistics/current-research
+uea.ac.uk/computing/continuing-professional-development
+uea.ac.uk/computing/news-and-events/machine-learning-and-statistics-seminars
+
+precision at 1 = 1/1 = 1
+precision at 2 = 2/2 = 1
+precision at 3 = 3/3 = 1
+precision at 4 = 4/4 = 1
+precision at 5 = 5/5 = 1
+precision at 6 = 6/6 = 1
+precision at 7 = 7/7 = 1
+precision at 8 = 8/8 = 1
+precision at 9 = 9/9 = 1
+precision at 10 = 10/10 = 1
+
+query 04
+uea.ac.uk/computing/machine-learning/time-series-data-mining-electricity-usage-patterns
+uea.ac.uk/computing/haptics-for-deformable-tools
+uea.ac.uk/computing/understanding-the-mechanical-properties-of-proteins
+uea.ac.uk/computing/tracking
+uea.ac.uk/computing/People/Research+Associates/Matthew+Stocks
+uea.ac.uk/computing/people/profile/matthew-stocks
+uea.ac.uk/computing/environmental-noise-series-1
+uea.ac.uk/computing/careers-and-employability/phd-studentships-and-post-docs/-/asset_publisher/9rLTeh4Zd6oq/blog/-miua-phd-studentship-at-ucl-on-online-super-resolution-for-fibre-bundle-based-video-acquisition-medical-devices
+uea.ac.uk/computing/-/cmpsme22-computer-games-laboratory
+uea.ac.uk/computing/augmenting-graphical-user-interfaces-with-haptic-assistance-for-motion-impaired-operators
+
+precision at 1 = 0/1 = 0
+precision at 2 = 0/2 = 0
+precision at 3 = 0/3 = 0
+precision at 4 = 1/4 = 0.25
+precision at 5 = 1/5 = 0.2
+precision at 6 = 1/6 = 0.16666667
+precision at 7 = 1/7 = 0.14285714
+precision at 8 = 2/8 = 0.25
+precision at 9 = 3/9 = 0.33333333
+precision at 10 = 3/10 = 0.3
+
+query 05
+uea.ac.uk/computing/-/cmp-4003a-mathematics-for-actuaries
+uea.ac.uk/computing/-/cmp-5009a-financial-mathematics
+uea.ac.uk/computing/module-information/level-4
+uea.ac.uk/computing/machine-learning-and-statistics/collaborations
+uea.ac.uk/computing/machine-learning-and-statistics
+uea.ac.uk/computing/-/module-info-cmp-00000
+uea.ac.uk/computing/machine-learning-and-statistics/actuarial-research
+uea.ac.uk/computing/-/cmp-5035y-contingencies-and-differential-equations
+uea.ac.uk/computing/People/Faculty/Aristidis+K+Nikoloulopoulos
+uea.ac.uk/computing/people/profile/a-nikoloulopoulos
+
+precision at 1 = 1/1 = 1
+precision at 2 = 2/2 = 1
+precision at 3 = 2/3 = 0.66666667
+precision at 4 = 2/4 = 0.5
+precision at 5 = 2/5 = 0.4
+precision at 6 = 3/6 = 0.5
+precision at 7 = 3/7 = 0.42857143
+precision at 8 = 4/8 = 0.5
+precision at 9 = 4/9 = 0.44444444
+precision at 10 = 4/10 = 0.4
+
+query 06
+uea.ac.uk/computing/speech-language-and-audio-processing/robust-lip-reading
+uea.ac.uk/computing/speech-language-and-audio-processing/current-research-projects
+uea.ac.uk/computing/speech-language-and-audio-processing/confusion-modelling
+uea.ac.uk/computing/news-and-events/seminars/past-seminar-archives/2014-seminars/-/asset_publisher/kExJEmXIFdVy/blog/which-phoneme-to-viseme-maps-best-improve-visual-only-computer-lip-reading-
+uea.ac.uk/computing/people/profile/helen-bear
+uea.ac.uk/computing/People/Research+Students/Yogi+Bear
+uea.ac.uk/computing/People/Faculty/Richard+Harvey
+uea.ac.uk/computing/speech-language-and-audio-processing/lips-to-speech
+uea.ac.uk/computing/People/Research+Associates/Yuxuan+Lan
+uea.ac.uk/computing/people/profile/y-lan
+
+precision at 1 = 1/1 = 1
+precision at 2 = 2/2 = 1
+precision at 3 = 3/3 = 1
+precision at 4 = 4/4 = 1
+precision at 5 = 5/5 = 1
+precision at 6 = 6/6 = 1
+precision at 7 = 7/7 = 1
+precision at 8 = 8/8 = 1
+precision at 9 = 9/9 = 1
+precision at 10 = 10/10 = 1
+
+query 07
+uea.ac.uk/computing/machine-learning/bayesian-gene-selection-for-cancer-classification
+uea.ac.uk/computing/news-and-events/seminars-2010-2012
+uea.ac.uk/computing/the-uea-computational-biology-laboratory/faculty-members
+uea.ac.uk/computing/machine-learning/past-projects
+uea.ac.uk/computing/machine-learning-in-computational-biology
+uea.ac.uk/computing/bayesian-regulatory-element-detection-bred
+uea.ac.uk/computing/computational-biology-of-rna
+uea.ac.uk/computing/news-and-events/computational-biology-seminars-2011
+uea.ac.uk/computing/people/profile/joanne-dicks
+uea.ac.uk/computing/news-and-events/topics
+
+precision at 1 = 1/1 = 1
+precision at 2 = 2/2 = 1
+precision at 3 = 2/3 = 0.66666667
+precision at 4 = 2/4 = 0.5
+precision at 5 = 3/5 = 0.6
+precision at 6 = 4/6 = 0.66666667
+precision at 7 = 5/7 = 0.71428571
+precision at 8 = 6/8 = 0.75
+precision at 9 = 6/9 = 0.66666667
+precision at 10 = 7/10 = 0.7
+
+query 08
+uea.ac.uk/computing/-/cmpsmb11-database-manipulation
+uea.ac.uk/computing/-/cmp-4010b-database-systems
+uea.ac.uk/computing/people/profile/p-dearnley
+uea.ac.uk/computing/-/cmp-0002a-foundations-of-computing
+uea.ac.uk/computing/news-and-events/topics
+uea.ac.uk/computing/machine-learning-and-statistics/database-of-clinical-records-of-diabetic-patients
+uea.ac.uk/computing/data-mining/past-projects
+uea.ac.uk/computing/machine-learning-and-statistics/health-informatics
+uea.ac.uk/computing/visual-speech-synthesis
+uea.ac.uk/computing/analysis-of-protein-structure-and-dynamics
+
+precision at 1 = 1/1 = 1
+precision at 2 = 2/2 = 1
+precision at 3 = 3/3 = 1
+precision at 4 = 4/4 = 1
+precision at 5 = 5/5 = 1
+precision at 6 = 5/6 = 0.83333333
+precision at 7 = 5/7 = 0.71428571
+precision at 8 = 6/8 = 0.75
+precision at 9 = 6/9 = 0.66666667
+precision at 10 = 6/10 = 0.6
+
+query 09
+uea.ac.uk/computing/people/profile/list/all/dh/2
+uea.ac.uk/computing/news-and-events/workshops/cmp-postgraduate-research-day
+uea.ac.uk/computing/current-students/past-exam-papers
+uea.ac.uk/computing/people/profile/list/all/ps/2
+uea.ac.uk/computing/colour-group/colour-members/postgraduate-students
+uea.ac.uk/computing/computer-graphics-members/postgraduate-students
+uea.ac.uk/computing/the-uea-computational-biology-laboratory/members
+uea.ac.uk/computing/computer-graphics-members
+uea.ac.uk/computing/machine-learning-and-statistics/members
+uea.ac.uk/computing/speech-language-and-audio-processing/members
+
+precision at 1 = 0/1 = 0
+precision at 2 = 1/2 = 0.5
+precision at 3 = 1/3 = 0.33333333
+precision at 4 = 1/4 = 0.25
+precision at 5 = 1/5 = 0.2
+precision at 6 = 1/6 = 0.16666667
+precision at 7 = 1/7 = 0.14285714
+precision at 8 = 1/8 = 0.125
+precision at 9 = 1/9 = 0.11111111
+precision at 10 = 1/10 = 0.1
+
+query 10
+uea.ac.uk/computing/module-information/level-0
+uea.ac.uk/computing/-/cmp-0003b-study-skills-for-foundation-skills
+uea.ac.uk/computing/the-uea-computational-biology-laboratory/career-opportunities
+uea.ac.uk/computing/-/cmp-0002a-foundations-of-computing
+uea.ac.uk/computing/colour-group-collaborations
+uea.ac.uk/computing/machine-learning-and-statistics/faculty-members
+uea.ac.uk/computing/research
+uea.ac.uk/computing/graphics-vision-and-speech
+uea.ac.uk/computing/news/-/asset_publisher/BZNbbdsKL4kr/blog/cmp-student-prize-winners
+uea.ac.uk/computing/undergraduate-degrees
+
+precision at 1 = 1/1 = 1
+precision at 2 = 2/2 = 1
+precision at 3 = 2/3 = 0.66666667
+precision at 4 = 3/4 = 0.75
+precision at 5 = 3/5 = 0.6
+precision at 6 = 3/6 = 0.5
+precision at 7 = 3/7 = 0.42857143
+precision at 8 = 3/8 = 0.375
+precision at 9 = 3/9 = 0.33333333
+precision at 10 = 4/10 = 0.4
+
+average precision at 10 = 0.5 + 1 + 1 + 0.3 + 0.4 + 1 + 0.7 + 0.6 + 0.1 + 0.4 = 6, 6/10 = 0.6
+
+
+
+
+
+
